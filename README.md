@@ -1,0 +1,4 @@
+–s
+
+ -passive
+-quiet
